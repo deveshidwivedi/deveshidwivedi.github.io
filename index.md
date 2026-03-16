@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This little space on the internet is where I write about things I am learning and exploring. Most posts will probably be about programming, open source, and the occasional problem that sent me down an interesting rabbit hole. I am still figuring things out as I go, so think of this as a collection of notes from the journey. If something here helps, sparks curiosity, or starts a conversation, that would make me really happy.
